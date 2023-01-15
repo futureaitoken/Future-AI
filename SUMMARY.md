@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Future AI | Introduction](README.md)
-* [Official social networks](official-social-networks.md)
+* [📌 Future-AI | Introduction](README.md)
+* [🗣 Official social networks](official-social-networks.md)
 * [Official Fairlaunch](official-fairlaunch.md)
 
 ## Overview Future-AI
