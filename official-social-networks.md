@@ -6,7 +6,7 @@ coverY: 0
 
 #### Access our social networks, like and share our content and updates.
 
-![](<.gitbook/assets/image (8).png>)DISCORD CHANNEL: \
+![](<.gitbook/assets/image (8).png>)DISCORD CHANNEL: [https://discord.gg/5CJFwjMyS6](https://discord.gg/5CJFwjMyS6)\
 ![](<.gitbook/assets/image (6).png>)TELEGRAM:\
 ![](.gitbook/assets/image.png)TELEGRAM CHANNEL: \
 ![](<.gitbook/assets/image (7).png>)TWITTER: [https://twitter.com/futureaitoken](https://twitter.com/futureaitoken)\

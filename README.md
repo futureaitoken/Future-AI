@@ -4,7 +4,11 @@ coverY: 0
 
 # 📌 Future-AI | Introduction
 
-SingularityDAO is a decentralised Portfolio Management Protocol designed to enable anybody to safely and easily manage crypto assets, supported by superior risk management and analytics tools; smart money, on-chain. A non-custodial protocol to foster a new ecosystem of Digital Asset Managers to offer automated trading strategies leveraging AI-enchanted data analytics services.
+#### _Future-AI | introduction_&#x20;
+
+_<mark style="color:blue;">**Future-AI**</mark> is a fully decentralized, self-managed wallet protocol where we grant our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools. Our Future-AI protocol is a non-custodial one, where we create a new ecosystem of automated digital asset management that uses AI with analytical data and makes it available to users._
+
+
 
 SingularityDAO is building a new ecosystem of digital asset managers who can leverage the protocol to offer automated asset management (Dynamic, Yield, Index, Exotics, etc.). By providing access to advanced decentralised tools and on-chain execution, the protocol is enabling a new generation of digital asset managers to offer their services to a wider audience. The open and inclusive approach is fostering collaboration and innovation in the crypto asset management space.&#x20;
 
