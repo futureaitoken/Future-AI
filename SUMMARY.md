@@ -6,6 +6,9 @@
 
 ## Overview Future-AI
 
+* [Artificial Intelligence](overview-future-ai/artificial-intelligence/README.md)
+  * [Introduction](overview-future-ai/artificial-intelligence/introduction.md)
+* [Adaptive Multi-Strategy Market Making Agent](overview-future-ai/adaptive-multi-strategy-market-making-agent.md)
 * [System Overview](overview-future-ai/system-overview/README.md)
   * [AI Layer 1 for Data Economy & Oracle services](overview-future-ai/system-overview/ai-layer-1-for-data-economy-and-oracle-services.md)
   * [Layer 2 Rollups and Subnetworks](overview-future-ai/system-overview/layer-2-rollups-and-subnetworks.md)
