@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/GITBOOK.png
 coverY: 0
 ---
 
-# 🌐 Discord Bot
+# 🔹 Discord Bot
 
 _Discord can be self-hosted or used through the Discord web application. One great thing with Discord is that it has an extensive API for interacting with the server._
 

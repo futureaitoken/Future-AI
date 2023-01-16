@@ -1,8 +1,9 @@
 ---
+cover: ../../.gitbook/assets/GITBOOK.png
 coverY: 0
 ---
 
-# Wallet Future-AI
+# 🔹 Wallet Future-AI
 
 ## How to Set Up a Wallet
 
