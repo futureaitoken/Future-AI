@@ -6,9 +6,15 @@ coverY: 0
 
 #### _Future-AI | introduction_&#x20;
 
-_<mark style="color:blue;">**Future-AI**</mark> is a fully decentralized, self-managed wallet protocol where we grant our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools. Our Future-AI protocol is a non-custodial one, where we create a new ecosystem of automated digital asset management that uses AI with analytical data and makes it available to users._
+<mark style="color:blue;">Future-AI</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;"></mark> is a fully decentralized, self-managed wallet protocol where we grant our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools. Our Future-AI protocol is a non-custodial one, where we create a new ecosystem of automated digital asset management that uses AI with analytical data and makes it available to users._
 
 
+
+<mark style="color:blue;">Governance in Future-AI</mark> &#x20;
+
+_We have transparency as a pillar of Future-AI, and with that we are developing protocols for feedback and suggestions to our investors, making it a very applicable resource for promoting open and transparent communication._&#x20;
+
+__
 
 
 

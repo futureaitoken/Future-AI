@@ -26,7 +26,7 @@
   * [How to Yield Farm LP Tokens](overview-future-ai/vaults-future-ai/how-to-yield-farm-lp-tokens.md)
 * [DEX Future-AI](overview-future-ai/dex-future-ai/README.md)
   * [How to Provide Liquidity](overview-future-ai/dex-future-ai/how-to-provide-liquidity.md)
-* [Governance Future-AI](overview-future-ai/governance-future-ai.md)
+* [🌐 DAOGovernance](overview-future-ai/daogovernance.md)
 * [Wallet Future-AI](overview-future-ai/wallet-future-ai/README.md)
   * [How to Use Trust Wallet to Interact with the SingularityDAO dApp](overview-future-ai/wallet-future-ai/how-to-use-trust-wallet-to-interact-with-the-singularitydao-dapp.md)
   * [How to Add a Custom Token in Trust Wallet](overview-future-ai/wallet-future-ai/how-to-add-a-custom-token-in-trust-wallet.md)
