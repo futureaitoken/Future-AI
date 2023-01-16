@@ -10,9 +10,9 @@ _<mark style="color:blue;">**Future-AI**</mark> is a fully decentralized, self-m
 
 
 
-SingularityDAO is building a new ecosystem of digital asset managers who can leverage the protocol to offer automated asset management (Dynamic, Yield, Index, Exotics, etc.). By providing access to advanced decentralised tools and on-chain execution, the protocol is enabling a new generation of digital asset managers to offer their services to a wider audience. The open and inclusive approach is fostering collaboration and innovation in the crypto asset management space.&#x20;
 
-SingularityDAO is a community-driven project, and the protocol labs welcome feedback and suggestions from its users. The growing community of supporters and users is an invaluable resource, and the team is committed to fostering open and transparent communication. Join the community to stay up-to-date on the latest developments and participate in shaping the future of the protocol.
+
+SingularityDAO is building a new ecosystem of digital asset managers who can leverage the protocol to offer automated asset management (Dynamic, Yield, Index, Exotics, etc.). By providing access to advanced decentralised tools and on-chain execution, the protocol is enabling a new generation of digital asset managers to offer their services to a wider audience. The open and inclusive approach is fostering collaboration and innovation in the crypto asset management space.&#x20;
 
 You will find in this Gitbook space detailed information about the protocol and its features, as well as tutorials and guides to help users get started. The team is continuously updating and expanding the protocol documentation to ensure that it remains a valuable resource for the community.
 
