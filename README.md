@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/GITBOOK.png
 coverY: 0
 ---
 
@@ -7,6 +8,8 @@ coverY: 0
 #### _Future-AI | introduction_&#x20;
 
 <mark style="color:blue;">Future-AI</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;"></mark> is a fully decentralized, self-managed wallet protocol where we grant our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools. Our Future-AI protocol is a non-custodial one, where we create a new ecosystem of automated digital asset management that uses AI with analytical data and makes it available to users._
+
+#### Mission $FUTURE-AI
 
 
 
