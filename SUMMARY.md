@@ -2,12 +2,11 @@
 
 * [📌 Future-AI | Introduction](README.md)
 * [🗣 Official social networks](official-social-networks.md)
-* [Official Fairlaunch](official-fairlaunch.md)
+* [🥳 Fairlaunch - Pinksale](fairlaunch-pinksale.md)
 
 ## Overview Future-AI
 
-* [Artificial Intelligence](overview-future-ai/artificial-intelligence/README.md)
-  * [Introduction](overview-future-ai/artificial-intelligence/introduction.md)
+* [Page 1](overview-future-ai/page-1.md)
 * [Adaptive Multi-Strategy Market Making Agent](overview-future-ai/adaptive-multi-strategy-market-making-agent.md)
 * [System Overview](overview-future-ai/system-overview/README.md)
   * [AI Layer 1 for Data Economy & Oracle services](overview-future-ai/system-overview/ai-layer-1-for-data-economy-and-oracle-services.md)
@@ -15,6 +14,7 @@
   * [Verifiable and trustless AI Execution](overview-future-ai/system-overview/verifiable-and-trustless-ai-execution.md)
   * [Decentralized Data and AI platform](overview-future-ai/system-overview/decentralized-data-and-ai-platform.md)
   * [IBC Integration](overview-future-ai/system-overview/ibc-integration.md)
+* [Page 2](overview-future-ai/page-2.md)
 * [Decentralized Validator Sampling](overview-future-ai/decentralized-validator-sampling/README.md)
   * [Use Cases](overview-future-ai/decentralized-validator-sampling/use-cases.md)
   * [Protocol Messages](overview-future-ai/decentralized-validator-sampling/protocol-messages.md)
@@ -50,3 +50,4 @@
 * [Token metrics](token-future-ai/token-metrics.md)
 * [Roadmap](token-future-ai/roadmap.md)
 * [KYC & Audit](token-future-ai/kyc-and-audit.md)
+* [Team](token-future-ai/team.md)
