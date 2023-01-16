@@ -2,22 +2,14 @@
 
 * [📌 Future-AI | Introduction](README.md)
 * [🗣 Official social networks](official-social-networks.md)
-* [🥳 Fairlaunch - Pinksale](fairlaunch-pinksale.md)
+* [🥳 Fairlaunch - Pinksale](official-fairlaunch.md)
 
 ## Overview Future-AI
 
-* [Page 1](overview-future-ai/page-1.md)
-* [Adaptive Multi-Strategy Market Making Agent](overview-future-ai/adaptive-multi-strategy-market-making-agent.md)
-* [System Overview](overview-future-ai/system-overview/README.md)
-  * [AI Layer 1 for Data Economy & Oracle services](overview-future-ai/system-overview/ai-layer-1-for-data-economy-and-oracle-services.md)
-  * [Layer 2 Rollups and Subnetworks](overview-future-ai/system-overview/layer-2-rollups-and-subnetworks.md)
-  * [Verifiable and trustless AI Execution](overview-future-ai/system-overview/verifiable-and-trustless-ai-execution.md)
-  * [Decentralized Data and AI platform](overview-future-ai/system-overview/decentralized-data-and-ai-platform.md)
-  * [IBC Integration](overview-future-ai/system-overview/ibc-integration.md)
-* [Page 2](overview-future-ai/page-2.md)
-* [Decentralized Validator Sampling](overview-future-ai/decentralized-validator-sampling/README.md)
-  * [Use Cases](overview-future-ai/decentralized-validator-sampling/use-cases.md)
-  * [Protocol Messages](overview-future-ai/decentralized-validator-sampling/protocol-messages.md)
+* [⏩ The beginning of AI](overview-future-ai/the-beginning-of-ai/README.md)
+  * [🔹 Success of IA](overview-future-ai/the-beginning-of-ai/success-of-ia.md)
+* [Telegram Bot](overview-future-ai/telegram-bot/README.md)
+  * [More bots](overview-future-ai/telegram-bot/more-bots.md)
 * [Vaults Future-AI](overview-future-ai/vaults-future-ai/README.md)
   * [Epoch Vaults](overview-future-ai/vaults-future-ai/epoch-vaults.md)
   * [Unbonded Vaults](overview-future-ai/vaults-future-ai/unbonded-vaults.md)
@@ -41,8 +33,6 @@
   * [Become an AI Executor](overview-future-ai/future-ai-executors/become-an-ai-executor.md)
   * [Become an AI Executor with Docker](overview-future-ai/future-ai-executors/become-an-ai-executor-with-docker.md)
   * [AI Executor Incentive Mechanism](overview-future-ai/future-ai-executors/ai-executor-incentive-mechanism.md)
-* [Telegram Bot](overview-future-ai/telegram-bot/README.md)
-  * [More bots](overview-future-ai/telegram-bot/more-bots.md)
 
 ## token future-ai
 
