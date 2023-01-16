@@ -11,7 +11,7 @@
 * [🌐 Telegram Bot](overview-future-ai/telegram-bot/README.md)
   * [🌐 Twitter Bot](overview-future-ai/telegram-bot/twitter-bot.md)
   * [🌐 Discord Bot](overview-future-ai/telegram-bot/discord-bot.md)
-  * [More bots](overview-future-ai/telegram-bot/more-bots.md)
+  * [🌐 More bots](overview-future-ai/telegram-bot/more-bots.md)
 * [Vaults Future-AI](overview-future-ai/vaults-future-ai/README.md)
   * [Epoch Vaults](overview-future-ai/vaults-future-ai/epoch-vaults.md)
   * [Unbonded Vaults](overview-future-ai/vaults-future-ai/unbonded-vaults.md)

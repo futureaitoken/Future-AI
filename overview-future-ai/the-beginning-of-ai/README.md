@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/GITBOOK.png
 coverY: 0
 ---
 
-# 🔹 The beginning of AI
+# ⏩ The beginning of AI
 
 _Artificial Intelligence (AI) is one of the newest sciences. The discipline began to develop soon after World War II, and the name itself was coined in 1956. Computer vision is an image that can be defined as the transformation of a digital data set into a data structure describing the semantics of this data set in some context. This is the area of science that is dedicated to developing theories, methods and techniques aimed at the automatic extraction of useful information contained in images, which are captured by computer systems, by devices such as imagers, video camera, scanner, which are capable of interpreting images._
 
