@@ -1,7 +1,8 @@
 ---
+cover: ../../.gitbook/assets/GITBOOK.png
 coverY: 0
 ---
 
-# More bots
+# 🔹 More bots
 
-Currently, we only have the Telegram & Twitter bot, but we're developing new bots for every other social media
+_Currently, we only have the Telegram, Discord & Twitter bot, but we're developing new bots for every other social media._

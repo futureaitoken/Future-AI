@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# DEX Future-AI
+# 🔹 DEX Future-AI
 
 ## How to Swap Tokens
 
