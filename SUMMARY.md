@@ -24,15 +24,16 @@
 * [🌐 Future-AI Providers](overview-future-ai/future-ai-providers/README.md)
   * [AI Provider Integration](overview-future-ai/future-ai-providers/ai-provider-integration.md)
 * [🔹 DEX Future-AI](overview-future-ai/dex-future-ai.md)
+* [🔹 DEX Future-AI](overview-future-ai/dex-future-ai-1.md)
 * [🌐 Metaverse](overview-future-ai/metaverse.md)
 * [🔹 Future-AI Executors](overview-future-ai/future-ai-executors/README.md)
   * [🔹 AI Executor File Integrity](overview-future-ai/future-ai-executors/ai-executor-file-integrity.md)
-  * [🔹 Data Source Provider](overview-future-ai/future-ai-executors/data-source-provider.md)
-  * [🔹 Thesis case provider](overview-future-ai/future-ai-executors/thesis-case-provider.md)
-  * [🔹 Script Developer](overview-future-ai/future-ai-executors/script-developer.md)
-  * [🔹 AI Executor](overview-future-ai/future-ai-executors/ai-executor.md)
-  * [Become an AI Executor with Docker](overview-future-ai/future-ai-executors/become-an-ai-executor-with-docker.md)
-  * [AI Executor Incentive Mechanism](overview-future-ai/future-ai-executors/ai-executor-incentive-mechanism.md)
+  * [🔹 Data Source Provider](overview-future-ai/future-ai-executors/become-a-data-source-provider.md)
+  * [🔹 Thesis case provider](overview-future-ai/future-ai-executors/become-a-test-case-provider.md)
+  * [🔹 Script Developer](overview-future-ai/future-ai-executors/become-an-oracle-script-developer.md)
+  * [🔹 AI Executor](overview-future-ai/future-ai-executors/become-an-ai-executor.md)
+  * [🔹 AI Executor with Docker](overview-future-ai/future-ai-executors/ai-executor-with-docker.md)
+  * [🔹 AI Executor Incentive Mechanism](overview-future-ai/future-ai-executors/ai-executor-incentive-mechanism.md)
 
 ## token future-ai
 
