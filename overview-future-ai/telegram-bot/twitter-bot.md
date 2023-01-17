@@ -13,6 +13,16 @@ _**A brief explanation of future usage:**_
 
 _For requesting text answers, please bookmark our Twitter Bot and proceed with a question or statement:_
 
-__
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;"></mark>
+#### Our Twitter bot will respond:
+
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+
+#### We will have the option of image responses as well, just tag the future-AI Twitter bot followed by the image you want to see, like below:
+
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+#### And our image generator bot will respond as requested:
+
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
