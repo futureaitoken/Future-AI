@@ -5,7 +5,7 @@ coverY: 0
 
 # 🔹 Wallet Future-AI
 
-## _<mark style="color:blue;">Coming soon... Wallet Future-AI</mark>_
+#### _<mark style="color:blue;">Coming soon... Wallet Future-AI</mark>_
 
 _<mark style="color:blue;">Future-AI will have an interoperable multiwalllet, where our investors will be able to store and manage their assets on a blockchain.</mark>_
 

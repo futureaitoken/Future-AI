@@ -1,12 +1,13 @@
 ---
+cover: ../../.gitbook/assets/GITBOOK.png
 coverY: 0
 ---
 
-# Become an AI Executor
+# 🔹 AI Executor
 
-## Installation
+#### <mark style="color:blue;">Installation</mark>
 
-### 0. Hardware specification
+#### _0. Hardware specification_
 
 A dedicated machine that can keep the program running continuously. The program supports Linux, Windows & MacOS.
 
