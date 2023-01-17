@@ -8,7 +8,9 @@
 
 * [🔹 The beginning of AI](overview-future-ai/the-beginning-of-ai/README.md)
   * [🔹 Success of IA](overview-future-ai/the-beginning-of-ai/success-of-ia.md)
-* [🌐 GPT-3](overview-future-ai/gpt-3.md)
+* [🌐 GPT-3](overview-future-ai/gpt-3/README.md)
+  * [🌐 How does GPT-3 work?](overview-future-ai/gpt-3/how-does-gpt-3-work.md)
+  * [🌐 What are the uses of GPT-3?](overview-future-ai/gpt-3/what-are-the-uses-of-gpt-3.md)
 * [🔹 Telegram Bot](overview-future-ai/telegram-bot/README.md)
   * [🔹 Twitter Bot](overview-future-ai/telegram-bot/twitter-bot.md)
   * [🔹 Discord Bot](overview-future-ai/telegram-bot/discord-bot.md)
