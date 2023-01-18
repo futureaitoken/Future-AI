@@ -31,7 +31,7 @@
   * [🔹 AI Executor](overview-future-ai/future-ai-executors/become-an-ai-executor.md)
   * [🔹 AI Executor with Docker](overview-future-ai/future-ai-executors/ai-executor-with-docker.md)
   * [🔹 AI Executor Incentive Mechanism](overview-future-ai/future-ai-executors/ai-executor-incentive-mechanism.md)
-* [🌐 Metaverse](overview-future-ai/metaverse/README.md)
+* [🌐 Metaverse](overview-future-ai/metaverse.md)
   * [🌐 Future-AI Metaverse](overview-future-ai/metaverse/future-ai-metaverse.md)
 * [🔹 DEX Future-AI](overview-future-ai/dex-future-ai/README.md)
   * [🔹 DEX Future-AI](overview-future-ai/dex-future-ai/dex-future-ai.md)
