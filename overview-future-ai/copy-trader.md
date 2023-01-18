@@ -27,3 +27,12 @@ _Future-AI is developing a copy trade protocol, where it will make available to 
 * _<mark style="color:blue;">With this, we will be able to introduce many new traders, who have no notion of the market, and with our copy trade it will be possible to trade</mark>_
 * _We will break the time barrier, and traders who are busy with other tasks will have more time for other functions_
 * _<mark style="color:blue;">We will develop with our copy, a strong community, where besides the calls they will receive, we will also condition them to various subjects, with various people interacting... always seeking continuous improvement, with strategies and ideas.</mark>_
+
+_At first we will introduce our copy on telegram and whatsapp channels, with the introduction of the AI that will do a thorough analysis of the market and will provide the best entries, all with the security parameters checked in priority._
+
+_<mark style="color:blue;">Check parameters for Copy Trader:</mark>_
+
+* _Contract - If compliant, a thorough audit on the same_
+* _Certification Seals - If the project has an audit and KYC_
+* _Ratio between factors like: Supply / Marketcap / Liquidity_
+* _Member engagement, among other factors._
