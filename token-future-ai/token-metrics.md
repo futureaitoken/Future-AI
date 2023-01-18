@@ -13,3 +13,7 @@ coverY: 0
 00% - Plataform Bot\
 00% - Team\
 00% - Marketing
+
+## 0% RATE PURCHASES / SALES
+
+_<mark style="color:blue;">After a market analysis and tokenomics study, we decided to make our project free of transaction fees, so both for buying and selling, we will have ZERO fees!</mark>_

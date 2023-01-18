@@ -13,7 +13,7 @@ _**A brief explanation of future usage:**_
 
 _For requesting text answers, please bookmark our Twitter Bot and proceed with a question or statement:_
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Our Twitter bot will respond:
 
@@ -25,4 +25,4 @@ _For requesting text answers, please bookmark our Twitter Bot and proceed with a
 
 #### And our image generator bot will respond as requested:
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
