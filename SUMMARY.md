@@ -15,6 +15,12 @@
   * [🔹 Twitter Bot](overview-future-ai/telegram-bot/twitter-bot.md)
   * [🔹 Discord Bot](overview-future-ai/telegram-bot/discord-bot.md)
   * [🔹 More bots](overview-future-ai/telegram-bot/more-bots.md)
+* [🌐 Metaverse](overview-future-ai/metaverse.md)
+  * [🌐 Future-AI Metaverse](overview-future-ai/metaverse/future-ai-metaverse.md)
+  * [🌐 iNFT Protocol](overview-future-ai/metaverse/inft-protocol.md)
+* [🔹 Decentralized App](overview-future-ai/decentralized-app.md)
+* [🌐 Future-AI Characters](overview-future-ai/future-ai-characters.md)
+* [🔹 Copy Trader](overview-future-ai/copy-trader.md)
 * [🌐 DAOGovernance](overview-future-ai/governance-future-ai.md)
 * [🔹 Wallet Future-AI](<overview-future-ai/wallet-future-ai/README (1).md>)
   * [🔹 Download Trust Wallet](overview-future-ai/wallet-future-ai/README.md)
@@ -31,10 +37,6 @@
   * [🔹 AI Executor](overview-future-ai/future-ai-executors/become-an-ai-executor.md)
   * [🔹 AI Executor with Docker](overview-future-ai/future-ai-executors/ai-executor-with-docker.md)
   * [🔹 AI Executor Incentive Mechanism](overview-future-ai/future-ai-executors/ai-executor-incentive-mechanism.md)
-* [🌐 Metaverse](overview-future-ai/metaverse.md)
-  * [🌐 Future-AI Metaverse](overview-future-ai/metaverse/future-ai-metaverse.md)
-* [🔹 DEX Future-AI](overview-future-ai/dex-future-ai/README.md)
-  * [🔹 DEX Future-AI](overview-future-ai/dex-future-ai/dex-future-ai.md)
 
 ## token future-ai
 
