@@ -9,7 +9,7 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p>CEO - @CEO Future_AI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p>CEO - @<a href="https://t.me/CEO_Future_AI">CEO_Future_AI</a></p></figcaption></figure>
 
  
 
