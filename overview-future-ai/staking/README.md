@@ -11,13 +11,7 @@ _By locking up tokens on our platform, you can receive rewards depending on the 
 
 _As more people, especially institutional investors, recognize the crypto market's profitability and efficiency, staking is gradually becoming a method of obtaining passive income by simply stake coins in a wallet. Stake Future-AI and earn $Future-AI tokens in rewards. Since staking cryptocurrencies necessitate certain technological crypto know-how and compliance criteria, including those lacking technical knowledge of Future-AI, staking and receiving rewards. In response to the tremendous increase in crypto staking, If you are interested in earning a passive income by staking, this is the place to be._
 
-_<mark style="color:blue;">No Lock - 03%</mark>_
-
-_30 days - 10%_
-
-_<mark style="color:blue;">90 days - 25%</mark>_\
-_<mark style="color:blue;"></mark>_\
-_<mark style="color:blue;"></mark>__180 days - 30%_
+**FUTURE-AI POOL ->**A TIERS multiplier: 2% APY: 50%
 
 <figure><img src="../../.gitbook/assets/a.JPG" alt=""><figcaption></figcaption></figure>
 

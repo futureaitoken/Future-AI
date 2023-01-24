@@ -12,7 +12,7 @@ coverY: 0
 10%          - Future-AI Future Marketing and development \
 10%          - Future-AI Future Promotions\
 10%          - Future-AI Future Partnerships\
-10%          - Future-AI Fturue CEX/DEX Liquidiy\
+10%          - Future-AI Fturue CEX/DEX Liquidity\
 5.0735%  - Future-AI Team and Advisor
 
 ## 0% RATE PURCHASES / SALES
