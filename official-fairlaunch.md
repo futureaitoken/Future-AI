@@ -11,6 +11,4 @@ coverY: 0
 
 #### Access our Fairlaunch link and discuss our whitepaper for more information:
 
-{% embed url="https://www.pinksale.finance/" %}
-
-__
+{% embed url="https://www.pinksale.finance/launchpad/0x566437cfAE66B0D467DcEad30038abF490FED867?chain=BSC" %}

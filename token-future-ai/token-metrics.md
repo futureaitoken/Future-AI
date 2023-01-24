@@ -7,12 +7,13 @@ coverY: 0
 
 ## Tokens metrics&#x20;
 
-00% - Presale\
-00% - Liquidity\
-00% - DEX\
-00% - Plataform Bot\
-00% - Team\
-00% - Marketing
+37%          - Presale\
+17.9265% - Liquidity\
+10%          - Future-AI Future Marketing and development \
+10%          - Future-AI Future Promotions\
+10%          - Future-AI Future Partnerships\
+10%          - Future-AI Fturue CEX/DEX Liquidiy\
+5.0735%  - Future-AI Team and Advisor
 
 ## 0% RATE PURCHASES / SALES
 
