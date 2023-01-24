@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/GITBOOK.png
+cover: ../../.gitbook/assets/GITBOOK.png
 coverY: 0
 ---
 
@@ -18,3 +18,6 @@ _30 days - 10%_
 _<mark style="color:blue;">90 days - 25%</mark>_\
 _<mark style="color:blue;"></mark>_\
 _<mark style="color:blue;"></mark>__180 days - 30%_
+
+<figure><img src="../../.gitbook/assets/a.JPG" alt=""><figcaption></figcaption></figure>
+

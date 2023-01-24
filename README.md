@@ -17,6 +17,8 @@ _<mark style="color:blue;">A world of possibilities for our collective creativit
 
 _We at Future AI seek to bring to the world a way to make the most of AI functionality, with the development of various products for our investors._
 
+{% embed url="https://dapp.futureai.app/" %}
+
 _----------------------------------------------------------------------------------------------------_
 
 * [x] _<mark style="color:blue;"></mark>_[_<mark style="color:blue;">Metaverse Future-AI</mark>_](overview-future-ai/metaverse.md)_<mark style="color:blue;"></mark>_
