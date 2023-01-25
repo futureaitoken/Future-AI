@@ -7,11 +7,11 @@ coverY: 0
 
 _<mark style="color:blue;">I am the Future. AI for solutions.</mark>_
 
-_Future-AI is a fully decentralized, self-managed wallet protocol where we grant our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools._
+Future-AI is a fully decentralized, self-managed wallet protocol that allows our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools. Our Future-AI protocol is a non-custodial one, in which we create a new ecosystem of automated digital asset management that utilizes AI with analytical data and makes it available to users
 
 _<mark style="color:blue;">Mission | Future-AI</mark>_ <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark>&#x20;
 
-_Our main mission is to use AI and all DeFi technologies to integrate democratic and decentralized properties. We will grant our investors a bot for social networks (Telegram, Discord and Twiiter) and character creation through AI (personalities, voices, bodies, using totally natural language) among other applications that we will grant to our public._
+Our main mission is to utilize AI and all DeFi technologies to integrate democratic and decentralized properties. We will provide our investors with a bot for social networks (Telegram, Discord and Twitter) and character creation through AI (personalities, voices, bodies, using natural language) among other applications that we will offer to our audience.
 
 _<mark style="color:blue;">A world of possibilities for our collective creativity</mark>_
 
@@ -36,7 +36,7 @@ _Our bot will be totally free, where any Telegram user will have access._
 
 * [x] _<mark style="color:blue;"></mark>_[_<mark style="color:blue;">DAOGovernance</mark>_](overview-future-ai/governance-future-ai.md)_<mark style="color:blue;"></mark>_
 
-_Participate through the forum and in the future on the AI metaverse and will vote, and based on the votes, updates will be enacted._
+Transparency is a pillar of Future-AI, and with that in mind, we are developing protocols for feedback and suggestions from our investors, making it a highly applicable resource for promoting open and transparent communication.
 
 * [x] __[_Copy Trader_](overview-future-ai/copy-trader.md)__
 
