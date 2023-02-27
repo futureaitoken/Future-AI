@@ -56,7 +56,7 @@ _By locking up tokens on our platform, you can receive rewards depending on the 
 
 _he interest paid is calculated in annual terms. So a yield farming will pay 0%._
 
-* [x] __[_Brigde_ ](overview-future-ai/brigde.md)__
+* [x] __[_Brigde_ ](overview-future-ai/brigde/)__
 
 _The FUTURE-AI bridge is an innovative and highly necessary solution in the cryptocurrency market. With it, users can maximize the advantages of different networks, easily, quickly and securely._
 

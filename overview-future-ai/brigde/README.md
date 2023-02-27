@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/GITBOOK.png
+cover: ../../.gitbook/assets/GITBOOK.png
 coverY: 0
 ---
 
@@ -13,4 +13,4 @@ _With the FUTURE-AI bridge, users can perform cryptocurrency transfers between n
 
 _With the FUTURE-AI bridge, investors can take advantage of network advantages such as the speed and low cost of transactions on BSC and the wide variety of tokens and smart contracts available on ETH. This increases investment possibilities and portfolio diversification._
 
-<figure><img src="../.gitbook/assets/Captura de Tela 2023-02-26 às 23.40.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de Tela 2023-02-26 às 23.40.34.png" alt=""><figcaption></figcaption></figure>
