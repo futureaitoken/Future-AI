@@ -19,6 +19,7 @@
   * [🌐 Future-AI Metaverse](overview-future-ai/metaverse/future-ai-metaverse.md)
   * [🌐 iNFT Protocol](overview-future-ai/metaverse/inft-protocol.md)
 * [🔹 Decentralized App](overview-future-ai/decentralized-app.md)
+* [🔹 Brigde](overview-future-ai/brigde.md)
 * [🌐 Future-AI Characters](overview-future-ai/future-ai-characters.md)
 * [🔹 Copy Trader](overview-future-ai/copy-trader.md)
 * [🌐 DAOGovernance](overview-future-ai/governance-future-ai.md)
